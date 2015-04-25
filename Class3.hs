@@ -1,5 +1,5 @@
 module Friday where
-
+--comment addition
 main = putStrLn "Hello World"
 isZero :: Int -> Bool
 isZero n = (n==0)
